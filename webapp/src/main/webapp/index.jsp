@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h6> Shreyas Singh, CI/CD with Git Jenkins Ansible Kubernetes</h6>
 
   
 </form>
