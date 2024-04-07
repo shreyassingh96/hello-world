@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h6> Shreyas Singh, CI/CD with Git Jenkins Ansible Kubernetes Project</h6>
+   <p> Shreyas Singh, CI/CD with Git Jenkins Ansible Kubernetes Project</p>
 
   
 </form>
